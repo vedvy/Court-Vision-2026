@@ -6,4 +6,5 @@ CourtVision's goal is to provide Basketball analysis and tracking of players in 
 
 In the future, we aim to also add functionality for team association and better accuracy readings of players.
 
-Link to my Roboflow Model: olympic-sk-basketball-dataset-v2/14
+Link to my Roboflow Model: https://universe.roboflow.com/vedant-vyas/olympic-sk-basketball-dataset-v2/dataset/14
+
